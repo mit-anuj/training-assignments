@@ -32,6 +32,6 @@ public class calculateNoOfZeros {
 
     public static void main(String[] args) {
         // noOfZeros(0, 0);
-        System.out.println(noOfZeros(00));
+        System.out.println(noOfZeros(102030));
     }
 }
